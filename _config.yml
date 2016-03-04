@@ -1,6 +1,6 @@
 name: Green Home and Body
 favicon: null
-layout_spectrum: 0.99394
+layout_spectrum: 0.01385
 typography_spectrum: 0.8480355327483267
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#e9af8a'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.75
+  saturation: 0.6875
   rhythmicContrast: 1
 purpose: []
